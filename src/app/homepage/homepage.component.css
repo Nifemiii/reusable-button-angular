@@ -1,0 +1,9 @@
+.container {
+  text-align: center;
+}
+
+header {
+  font-size: 60px;
+  margin-bottom: 80px;
+  line-height: normal;
+}
